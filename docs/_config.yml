@@ -10,6 +10,4 @@ kramdown:
   syntax_highlighter: rouge
 # theme: minima 
 # remote_theme: benbalter/retlab
-remote_theme: pages-themes/cayman
-plugins:
-- jekyll-remote-theme
+theme: cayman

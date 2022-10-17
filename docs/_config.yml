@@ -8,6 +8,15 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-# theme: minima 
+theme: minima 
 # remote_theme: benbalter/retlab
-theme: cayman
+# theme: cayman
+
+title: Cyber Security & Development Blog
+author:
+  name: ix76y
+  email: your-email@domain.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  TODO: Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.

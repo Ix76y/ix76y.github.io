@@ -15,8 +15,7 @@ theme: minima
 title: Cyber Security & Development Blog
 author:
   name: ix76y
-  email: your-email@domain.com
+  email: TroubledWaffle@protonmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  TODO: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my github blog. I love cyber security and generally anything that has to do with coding. 
+  My favorite languages include: C, Rust, Python, Assembly, and Swift. 
